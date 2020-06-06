@@ -23,7 +23,7 @@
 # Part-1: Spring Boot Basics and Fundamentals with Projects
     (Attention: When You click  RESOURE OR CODE, indeed, Detail explanations are inside the sources!)
 
- * ### [ (resource](https://dev.to/hamdamboy/spring-boot-basics-and-fundamentals-with-projects-5967) / [ code) ]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-1%20Spring%20Boot%20Basic%20Fund%20Projects/SpringBootSourceCode) Getting Started with Spring Boot
+ * ### ([resource](https://dev.to/hamdamboy/spring-boot-basics-and-fundamentals-with-projects-5967)/[ code) ]( https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-1%20Spring%20Boot%20Basic%20Fund%20Projects/SpringBootSourceCode) Getting Started with Spring Boot
  
    *  Installing Spring Boot +  Maven (pom.xml) : (code) SpringBootFamilyMember
    *  Spring Boot + Gradle : (code) Spring Gradle
@@ -31,7 +31,7 @@
    *  Important Spring Boot Standalone : (code) SpringStandalone
    *  Migrating from Spring to Spring Boot : (code) SpringDownloadFiles
     
-*  ### [ (resource](https://dev.to/hamdamboy/spring-boot-basics-and-fundamentals-with-projects-5967) / [ code) ]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-1%20Spring%20Boot%20Basic%20Fund%20Projects/SpringBootSources ) RESTfull API: Spring REST Template-Spring REST Client Methods
+*  ### ([resource](https://dev.to/hamdamboy/spring-boot-basics-and-fundamentals-with-projects-5967) / [ code) ]( https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-1%20Spring%20Boot%20Basic%20Fund%20Projects/SpringBootSources ) RESTfull API: Spring REST Template-Spring REST Client Methods
    
    *  Spring REST Client Methods (GET, POST, PUT and DELETE) : (code) SpringRestAPI
    *  Spring Boot How to Change Port and Context Path : (code) SpringEmailProcess
@@ -41,7 +41,7 @@
 #
 
 # Part-2: Spring Boot Configuration
- * ### [(resource](https://dev.to/hamdamboy/twitter-sms-services-spring-boot-possible-xml-configuration-2p9m)/[ code)]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-2%20Spring%20Boot%20Configuration ) Configuration in Practical way
+ * ### ([resource](https://dev.to/hamdamboy/twitter-sms-services-spring-boot-possible-xml-configuration-2p9m)/[ code)]( https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-2%20Spring%20Boot%20Configuration ) Configuration in Practical way
  
     *  Spring Boot 2 + Java Based Configuration 
     *  Spring Boot 2 + XML Configuration 
@@ -49,7 +49,7 @@
 #
 # Part-3: Spring Boot Annotations 
 
- * ### ([resource](https://dev.to/hamdamboy/cognitive-control-annotations-in-spring-boot-23io) /  [ code ]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-3%20Spring%20Boot%20Annotations))  Practical Experience with Annotation  
+ * ### ([resource](https://dev.to/hamdamboy/cognitive-control-annotations-in-spring-boot-23io) /  [ code ](https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-3%20Spring%20Boot%20Annotations))  Practical Experience with Annotation  
   
      *  Spring Boot Annotations Definiation and Practics
      *  Spring Boot @EnableAutoConfiguration Annotation with Example
@@ -58,7 +58,7 @@
 
 #
 # Part-4: Spring Boot + REST API
- * ### ([resource](https://dev.to/hamdamboy/truly-there-is-no-difference-in-implementation-integrating-spring-with-jersey-and-integrating-jersey-with-spring-m2k)/ [ code ](https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-4%20Spring%20Boot%20REST%20API)) Database interconnections
+ * ### ([resource](https://dev.to/hamdamboy/truly-there-is-no-difference-in-implementation-integrating-spring-with-jersey-and-integrating-jersey-with-spring-m2k)/ [ code ](https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-4%20Spring%20Boot%20REST%20API)) Database interconnections
 
 
 
@@ -77,7 +77,7 @@
 #
 
 # Part-5: Spring Boot + Web Application 
- * ### (resource/[code](https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-5%20Spring%20Boot%20Web%20Application))  Web applicaiton develops
+ * ### (resource/[code](https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-5%20Spring%20Boot%20Web%20Application))  Web applicaiton develops
  
    * Spring MVC + Spring Boot2 + JSP + JPA + Hibernate 5 + MySQL Example
    * Spring Boot 2 MVC Web Application Thymeleaf JPA MySQL Example
@@ -86,14 +86,14 @@
 
 #
 # Part-6: Spring Boot + Security 
- * ### ([resource](https://dev.to/urunov/already-hacked-security-environment-of-the-system-1b82)/[code]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-6%20Spring%20Boot%20Security))  Security possiblities
+ * ### ([resource](https://dev.to/urunov/already-hacked-security-environment-of-the-system-1b82)/[code]( https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-6%20Spring%20Boot%20Security))  Security possiblities
   
      * Spring Boot 2 + Spring MVC + Role Based Spring Security + JPA + Thymeleaf + MySQL 
      * Authenticating a User with LDAP using Spring Boot and Spring Security
      * User Registration Module using Spring Boot 2 + Spring MVC + Spring Security + Hibernate 5 + Thymeleaf + MySQL
 #
 # Part-7: TEST: Spring Boot 
- * ### (resource/[code](https://github.com/Urunov/SpringBoot-Projects-FullStack/tree/master/Part-7%20Spring%20Boot%20TEST))  Security possiblities
+ * ### (resource/[code](https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-7%20Spring%20Boot%20TEST))  Security possiblities
  
    * Spring Data JPA + Repository Testing using Spring Boot + @DataJpaTest
    * Spring Boot 2 + REST APIs Integration Testing
@@ -101,7 +101,7 @@
 #
 
 # Part-8: Spring Boot Real Project (TO-DO)
-  * ### ([resource]/[code](https://github.com/Urunov/SpringBoot-Projects-FullStack/tree/master/Part-8%20Spring%20Boot%20Real%20Projects)) Project: Spring Boot  (toddler steps) 
+  * ### ([resource]/[code](https://github.com/GunjanKadu/SpringBoot-Complete/tree/master/Part-8%20Spring%20Boot%20Real%20Projects)) Project: Spring Boot  (toddler steps) 
 
      * Spring Boot + PostgreSQL + JPA/Hibernate CRUD Restful API Tutorial
      * Spring Boot + Spring JDBC + MySQL CRUD (Simple Project) 
